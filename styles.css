@@ -1,0 +1,80 @@
+
+.square {
+  height: 50px;
+  width: 50px;
+  background-color:orange;
+}
+
+.square2 {
+    height: 50px;
+    width: 50px;
+    background-color:orange;
+    border-style: solid;
+    border-color: blue;
+  }
+  .squareSquare {
+    background-color:green;
+    position:absolute;
+    top:91px;
+    left:233px; 
+    width:75px;
+    height:90px
+  }  
+    
+  
+  .square3 {
+    height: 50px;
+    width: 50px;
+    background-color:green;
+  }
+  .square4 {
+    height: 300px;
+    width: 300px;
+    background-color:orange;
+    position:relative;
+  }
+
+  #pack {
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    position:relative;
+    top:-170px;
+    left:30px; 
+    width:140px;
+    height:140px
+  }
+  
+  .circle {
+    height: 50px;
+    width: 50px;
+    background-color:blue;
+    border-radius: 50%;
+  }
+
+  .circle2 {
+    height: 50px;
+    width: 50px;
+    background-color:blue;
+    border-style: solid;
+    border-color:orange;
+    border-radius: 50%;
+  }
+
+  #gold {
+    height: 200px;
+    width: 200px;
+    background-color:blue;   
+    border-radius: 50%;
+    position:relative;
+  }
+
+  .grey {
+  border-style: solid;
+  border-color: black;   
+  background-color: grey; 
+   
+}
+.white{
+color: white;    
+}
